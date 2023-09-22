@@ -100,7 +100,7 @@ const devices = {
     'shellypro3em': shellypro3em,
     'shellyplusht': shellyplusht,
     'shellyplusplugs': shellyplusplugs,
-'shellypmmini': shellypmmini,
+    'shellypmmini': shellypmmini,
 };
 
 const deviceTypes = {
@@ -151,7 +151,7 @@ const deviceTypes = {
     'shellypro3em': ['shellypro3em'],
     'shellyplusht': ['shellyplusht'],
     'shellyplusplugs': ['shellyplusplugs'],
-'shellypmmini': ['shellypmmini'],
+    'shellypmmini': ['shellypmmini'],
 };
 
 const deviceGen = {
@@ -201,7 +201,7 @@ const deviceGen = {
     'shellypro3em': 2,
     'shellyplusht': 2,
     'shellyplusplugs': 2,
-'shellypmmini': 2,
+    'shellypmmini': 2,
 };
 
 // https://shelly.cloud/knowledge-base/devices/
@@ -252,7 +252,7 @@ const deviceKnowledgeBase = {
     'shellypro3em': 'https://kb.shelly.cloud/knowledge-base/shelly-pro-3em',
     'shellyplusht': 'https://kb.shelly.cloud/knowledge-base/shelly-plus-h-t',
     'shellyplusplugs': 'https://kb.shelly.cloud/knowledge-base/shelly-plus-plug-s',
-'shellypmmini': 'https://shelly-api-docs.shelly.cloud/gen2/Devices/ShellyPlusPMMini',
+    'shellypmmini': 'https://shelly-api-docs.shelly.cloud/gen2/Devices/ShellyPlusPMMini',
 };
 
 /**
